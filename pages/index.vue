@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        projeto_nuxt_2
+        Sidney e Lucas
       </h1>
       <div class="links">
         <a
